@@ -1,0 +1,5 @@
+First, I changed the picture, the ingredient list, and the instructions.
+Second, I added a slideDown() effect to make the list slide down and stay down. 
+Third, I made sure a DOM traversal using the next() element.
+Next, the color of the css h3 was edited to colors of my liking.
+Finally, I appended "Got Milk?!" after the article so it would display below the picture.
